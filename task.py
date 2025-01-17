@@ -1,5 +1,5 @@
 shopping_list={
-    "piekarnia": ["chleb", "bułki", "pączki","tort"],
+    "piekarnia": ["chleb", "bułki", "pączki"],
     "warzywniak":["marchew", "seler","rukola", "truskawki"],
     "sportowy":["kask", "termo","kurtka"],
 }
